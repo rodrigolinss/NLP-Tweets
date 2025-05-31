@@ -36,5 +36,3 @@ O código é organizado para seguir um fluxo lógico e claro:
 7.  **Persistência do Modelo:** O modelo treinado e o vetorizador TF-IDF são salvos em um arquivo, permitindo que sejam reutilizados sem a necessidade de re-treinamento.
 8.  **Geração do Arquivo de Submissão:** As previsões são geradas para o conjunto de teste, e um arquivo `submission.csv` é criado no formato esperado pelo Kaggle. A ordem das previsões é cuidadosamente mantida para corresponder aos IDs dos tweets no conjunto de teste.
 9.  **Conclusão:** O notebook finaliza com uma análise dos resultados e uma discussão sobre a eficácia da abordagem implementada.
-
-Este README fornece um guia completo para entender e reproduzir a solução desenvolvida para a competição.
