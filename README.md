@@ -1,6 +1,6 @@
 # Kaggle Competition: Natural Language Processing with Disaster Tweets
 
-Este projeto apresenta uma solução para a competição (["Natural Language Processing with Disaster Tweets"](https://www.kaggle.com/competitions/nlp-getting-started)) do Kaggle. O desafio consiste em classificar tweets como genuínos ou não sobre desastres reais.
+Este projeto apresenta uma solução para a competição ["Natural Language Processing with Disaster Tweets"](https://www.kaggle.com/competitions/nlp-getting-started) do Kaggle. O desafio consiste em classificar tweets como genuínos ou não sobre desastres reais.
 
 ## Abordagem Principal: TF-IDF e Regressão Logística
 
